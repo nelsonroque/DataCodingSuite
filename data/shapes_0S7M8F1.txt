@@ -1,0 +1,13 @@
+date	time	img_group	participant	filename	word_left	word_right	rating
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle_square_2.png	Square$	Triangle$	4
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle_square_3.png	Square$	Triangle$	7
+01.11.16	11:15:27am	shapes	0S7M8F1	circle_square_3.png	Square$	Circle$	7
+01.11.16	11:15:27am	shapes	0S7M8F1	circle_square_1.png	Circle$	Square$	1
+01.11.16	11:15:27am	shapes	0S7M8F1	square.png	Circle$	Square$	
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle_circle_2.png	Triangle$	Circle$	7
+01.11.16	11:15:27am	shapes	0S7M8F1	circle_square_2.png	Circle$	Square$	1
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle_circle_3.png	Triangle$	Circle$	
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle.png	Square$	Triangle$	1
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle_square_1.png	Triangle$	Square$	
+01.11.16	11:15:27am	shapes	0S7M8F1	triangle_circle_1.png	Triangle$	Circle$	1
+01.11.16	11:15:27am	shapes	0S7M8F1	circle.png	Square$	Circle$	

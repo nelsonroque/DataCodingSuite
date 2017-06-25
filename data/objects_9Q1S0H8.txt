@@ -1,0 +1,8 @@
+date	time	img_group	participant	filename	word_left	word_right	rating
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-04.png	Face$	Vase$	1
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-02.png	Gun$	Drill$	1
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-07.png	Fish$	Rocket$	1
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-06.png	Rocket$	Squid$	1
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-08.png	Duck$	Rabbit$	1
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-05.png	Jazz$	Face$	7
+01.18.16	02:07:38pm	objects	9Q1S0H8	object_stim-03.png	Gun$	Fun$	1

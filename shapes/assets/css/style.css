@@ -1,0 +1,223 @@
+html {
+	background-color: white;
+	font-family: 'Helvetica','sans-serif';
+}
+
+ul, ul li {
+	 list-style-type: none;
+}
+
+textarea {
+	width: 80%;
+	font-size: 1.5em;
+	border: 3px solid white;
+}
+
+table{
+    border: 1px solid black;
+    table-layout: fixed;
+    width: 200px;
+}
+
+th, td {
+    border: 1px solid black;
+    overflow: hidden;
+    width: 100px;
+    text-align: center;
+}
+
+label {
+	color:black;
+	font-size: 1.3em;
+	/*border: 4px solid white;*/
+	padding: 10px;
+}
+
+.likert li {
+  float: left;
+  list-style-type: none;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  margin: 18px 0;
+  width: 50%;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 50%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #3071a9;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 36px;
+  width: 16px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -14px;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #367ebd;
+}
+input[type=range]::-moz-range-track {
+  width: 50%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  background: #3071a9;
+  border-radius: 1.3px;
+  border: 0.2px solid #010101;
+}
+input[type=range]::-moz-range-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 36px;
+  width: 16px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]::-ms-track {
+  width: 50%;
+  height: 8.4px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #2a6495;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]::-ms-fill-upper {
+  background: #3071a9;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]::-ms-thumb {
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+  border: 1px solid #000000;
+  height: 36px;
+  width: 16px;
+  border-radius: 3px;
+  background: #ffffff;
+  cursor: pointer;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #3071a9;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #367ebd;
+}
+
+input[type=checkbox] {
+  /* All browsers except webkit*/
+  transform: scale(1.5);
+
+  /* Webkit browsers*/
+  -webkit-transform: scale(1.5);
+}
+
+.light_text {
+	color: white;
+}
+
+button {
+	color: white;
+	background-color: black;
+	width: 40%;
+	height: 80px;
+	font-size: 1.5em;
+	border: 0;
+	border-radius: 5px;
+}
+button:hover {
+	color: white;
+	background-color: #00cf9f;
+	width: 40%;
+	height: 80px;
+	font-size: 1.5em;
+	border: 0;
+	border-radius: 5px;
+}
+
+input[type=button] {
+	color: black;
+	background-color: white;
+	width: 40%;
+	height: 80px;
+	font-size: 1.5em;
+	border: 0;
+	border-radius: 5px;
+}
+
+input[type=button]:hover {
+	color: white;
+	background-color: blue;
+	width: 40%;
+	height: 80px;
+	font-size: 1.5em;
+	border: 0;
+	border-radius: 5px;
+	/*padding: 5px 10px 5px 10px;*/
+}
+
+.mine_theme {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:1.5em;
+	width: 80%;
+	height:80%;
+}
+
+.mine_theme h1 {
+	font-size: 3em;
+}
+.mine_theme h2 {
+	font-size: 2.5em;
+}
+.mine_theme h3 {
+	font-size: 2em;
+}
+.mine_theme h4 {
+	font-size: 1.5em;
+}
+.mine_theme h5 {
+	font-size: 1em;
+}
+.mine_theme p {
+	font-size: 2em;
+}
+
+.dark {
+	background-color: white;
+	color: black;
+}
+
+.dark ol, ol li {
+	color: white;
+	font-size: 1.5em;
+	text-align: left;
+}
+
+.light {
+	background-color: white;
+	color: black;
+}

@@ -1,0 +1,11 @@
+date	time	img_group	participant	filename	word_left	word_right	rating
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale3_40.png	Male$	Female$	2
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale2_50.png	Male$	Female$	3
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale1_40.png	Male$	Female$	2
+12.15.15	09:30:09pm	faces	6J5S0X4	N_male1.png	Male$	Female$	1
+12.15.15	09:30:09pm	faces	6J5S0X4	N_female1.png	Male$	Female$	7
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale4_40.png	Male$	Female$	3
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale2_40.png	Male$	Female$	1
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale1_50.png	Male$	Female$	6
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale4_50.png	Male$	Female$	4
+12.15.15	09:30:09pm	faces	6J5S0X4	B_malefemale3_50.png	Male$	Female$	3
